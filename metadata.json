@@ -1,0 +1,6 @@
+{
+  "name": "현대 미술 작가 인터뷰와 탐구 활동지",
+  "description": "어린이들이 18명의 대표적인 현대 미술 작가 인공지능 캐릭터봇과 인터뷰를 진행하고, 예술적 가치관과 표현 방법을 조사하여 자신만의 탐구 활동지를 만드는 교육용 웹앱입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
